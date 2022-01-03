@@ -1,2 +1,2 @@
 # projectX
-repsitory_AT_code_openDNS
+repsitory_AT_code_openDNS2022
